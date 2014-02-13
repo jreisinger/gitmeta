@@ -1,7 +1,7 @@
 # To clone/update all repos defined in this file run:
 #
 #   cpanm GitMeta
-#   gitmeta-update git://github.com/jreisinger/gitmeta ~/my-git-repos
+#   gitmeta-update git://github.com/jreisinger/gitmeta myrepos.gmf ~/my-git-repos
 #
 # See https://metacpan.org/pod/GitMeta::GMF for more
 
