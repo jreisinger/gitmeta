@@ -1,0 +1,6 @@
+# All projects in directory '/var/git/scripts'
+# on some host via git/SSH
+-
+    type: SshDir
+    host: git@tracker.ist.local
+    dir:  /var/git/scripts
