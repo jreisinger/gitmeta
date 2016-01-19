@@ -1,1 +1,7 @@
 - git@itgit.eset.com:eset_admins/ansible-demo.git
+- git@itgit.eset.com:eset_admins/cm-presentation.git
+- git@itgit.eset.com:eset_admins/ansible-demo-vmware.git
+- git@itgit.eset.com:eset_admins/ansible-createvm.git
+- git@itgit.eset.com:eset_admins/vagrant-debian.git
+- git@itgit.eset.com:eset_admins/ansible.git
+- git@itgit.eset.com:eset_admins/ansible-os-upgrade.git
